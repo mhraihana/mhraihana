@@ -6,7 +6,7 @@
 💻 Currently pursuing a Diploma in IT<br/>
 💭 Always love to challenge and improvise myself and learn new things in Tech<br/>
 ☕ Caffeine addicted<br/>
-🪄 get to know me https://www.instagram.com/raihanafunoon/<br/>
+🪄 gtkm: https://www.instagram.com/raihanafunoon/<br/>
 
 ![Raihana's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhraihana&show_icons=true&theme=radical)
 
